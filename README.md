@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ns-personal-echo-map-badge.png)](https://mseep.ai/app/ns-personal-echo-map)
+
 # MCP Server Boilerplate
 
 A basic Model Context Protocol (MCP) server implementation that can be used as a starting point for building MCP-compatible applications.
